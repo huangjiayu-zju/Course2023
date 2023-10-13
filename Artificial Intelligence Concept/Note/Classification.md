@@ -149,7 +149,7 @@ data['column_name'] = imputer.fit_transform(data[['column_name']])
 
 #### Data Split
 
-先分离训练集和测试集
+先分离训练集和测试集   
 
 ```py
 from sklearn.model_selection import train_test_split
