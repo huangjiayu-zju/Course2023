@@ -4,7 +4,7 @@
 - [苦逼学生党的Google Colab使用心得](https://zhuanlan.zhihu.com/p/54389036)
 - [李沐-动手学深度学习d2l包安装及m1 gpu加速踩坑记录](https://zhuanlan.zhihu.com/p/549737512)
 - [typora mac版本激活](https://blog.csdn.net/enhenglhm/article/details/128980979)
-- []()
+- [install d2l module on apple m1 chip for deep learning](https://daydreamatnight.github.io/2022/02/28/install-d2l-moudule-on-apple-m1-chip-for-deep-learning/)
 - []()
 - []()
 - []()
